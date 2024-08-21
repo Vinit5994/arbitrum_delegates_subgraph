@@ -8,7 +8,7 @@ dataSources:
     name: L2ArbitrumToken
     network: arbitrum-one
     source:
-      address: "0xC4ed0A9Ea70d5bCC69f748547650d32cC219D882"
+      address: "0x912CE59144191C1204E64559FE8253a0e49E6548"
       abi: L2ArbitrumToken
       startBlock: 70397700
     mapping:
